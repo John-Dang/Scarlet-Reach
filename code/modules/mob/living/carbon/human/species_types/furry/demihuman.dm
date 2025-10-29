@@ -9,13 +9,15 @@
 	name = "Half-Kin"
 	id = "demihuman"
 	desc = "<b>Half-Kin</b><br>\
-	The inevitable union between wildkin and some form of humanity or another. \
-	While they also experience animalistic tendencies akin to their full-blooded ancestors, \
-	their intermingling with others has stemmed the severity of such primordial impulses.<br> \
+	The result of union between the major or minor furskinned species, and the humanlike races of \
+	the world. In some parts of Enigma they are shunned as bastards or impure forms of humanity, \
+	while other kingdoms treat them as regular citizens, accepted among both peasants and nobles. \
+	In the Scarlet Reach they are accepted as legitimate children and inherit parental titles, though \
+	some see them as impulsive due to their beastblood. Most try to live regular lives as yeomen, \
+	scratching up a living in cities, while others shed inhibition and stigma, living among dendorites.<br> \
 	<span style='color: #6a8cb7;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'><b> +1 PER | +1 END</b></span> </br> \
 	<span style='color: #cc0f0f;text-shadow:-1px -1px 0 #000,1px -1px 0 #000,-1px 1px 0 #000,1px 1px 0 #000;'><b>(Half-kin are not a template race to play your own custom race. If you play a half-kin, \
-	you are expected to roleplay to the setting and the race's lore.)</b></span> </br>"
-
+	you are expected to roleplay to the setting and the race's lore. These are half wild-kin people as a whole.)</b></span> </br>"
 	skin_tone_wording = "Ancestry"
 	default_color = "FFFFFF"
 	species_traits = list(EYECOLOR,HAIR,FACEHAIR,LIPS,STUBBLE,OLDGREY,MUTCOLORS_PARTSONLY)
